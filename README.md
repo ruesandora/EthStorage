@@ -63,7 +63,7 @@ ethfs-cli create -p PRIVKEY -c 11155111
 >
 > Cüzdanınızda Sepolia ETH yoksa işlem hata verecektir. 0.05 yeter ve artar. Çıktıda Totalle başlayan bir şeyler görürseniz başarmışsınızdır.
 ```
-ethfs-cli upload -f dist -a FLATDIRECTORYADRESS -c 11155111 -p PRIVKEY -t 1
+ethfs-cli upload -f ~/dist -a FLATDIRECTORYADRESS -c 11155111 -p PRIVKEY -t 1
 ```
 > ![image](https://github.com/ruesandora/EthStorage/assets/101149671/1c15fb77-053b-473c-8f74-e99abdb9093d)
 
